@@ -61,3 +61,17 @@ Explore the detailed process docs below:
 | [Release and Deployment](octoacme-release-and-deployment.md) | Release types, pre-release checklist, deployment, and post-deploy verification |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, action items, and improvement tracking |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and goals for each team role |
+
+---
+
+## Reusable Templates & Checklists
+
+| Template | Description |
+|----------|-------------|
+| [Kickoff Agenda](octoacme-kickoff-agenda.md) | Reusable agenda for project kickoff meetings |
+| [Definition of Done](octoacme-definition-of-done.md) | Shared DoD checklist for backlog items and sprints |
+| [Risk Register](octoacme-risk-register-template.md) | Pre-formatted risk register table with field definitions |
+| [Decision Log](octoacme-decision-log.md) | Track key decisions, rationale, and owners |
+| [Stakeholder Comms Plan](octoacme-stakeholder-comms-plan.md) | Communication plan template with stakeholder register and status update format |
+| [Release Readiness Checklist](octoacme-release-readiness-checklist.md) | End-to-end pre- and post-release verification checklist with go/no-go gate |
+| [Retro Action-Item Tracker](octoacme-retro-action-items.md) | Track retrospective action items with owners, due dates, and success criteria |

@@ -79,3 +79,51 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+---
+
+## QA / Testing
+
+### Role Summary
+QA engineers validate that features meet acceptance criteria and quality standards before release. They advocate for quality throughout the delivery lifecycle, not just at the end.
+
+### Responsibilities
+- Define and execute test plans (unit, integration, end-to-end, regression)
+- Review acceptance criteria in backlog items and flag ambiguities early
+- Perform manual QA for feature acceptance when automated coverage is insufficient
+- Maintain test environments and test data
+- Sign off on release readiness from a quality perspective
+
+### Goals
+- Prevent defects from reaching production
+- Ensure every release meets the Definition of Done
+- Improve test automation coverage over time
+
+### Typical Communication
+- Sprint planning: review acceptance criteria and flag testability gaps
+- Daily standups: report test status and blockers
+- Pre-release: provide sign-off in the [Release Readiness Checklist](octoacme-release-readiness-checklist.md)
+
+---
+
+## Stakeholders
+
+### Role Summary
+Stakeholders are individuals or groups with an interest in the project outcome. They provide business requirements, approvals, and feedback throughout the project lifecycle.
+
+### Responsibilities
+- Articulate business needs and success metrics during initiation
+- Review and approve the Project One-pager and major scope changes
+- Participate in sprint reviews and provide timely feedback
+- Make decisions when trade-offs between scope, quality, and timeline arise
+- Accept (or reject) deliverables against agreed acceptance criteria
+
+### Goals
+- Ensure the project delivers the expected business value
+- Stay informed of progress, risks, and key decisions
+- Enable the team by providing timely inputs and removing external blockers
+
+### Typical Communication
+- Monthly stakeholder updates from the PM
+- Ad-hoc notifications for High risks or milestone slips (see [Comms Plan](octoacme-stakeholder-comms-plan.md))
+- Sprint review / demo attendance
+

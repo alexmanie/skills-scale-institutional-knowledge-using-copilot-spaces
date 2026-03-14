@@ -9,10 +9,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
+1. Kickoff meeting with stakeholders and delivery team → use [Kickoff Agenda Template](octoacme-kickoff-agenda.md)
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
+4. Define Definition of Done (DoD) → use [Definition of Done Template](octoacme-definition-of-done.md)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
@@ -31,8 +31,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Ensure team capacity is respected
 
 ## Risk & Dependency Management
-- Capture in Risk Register:
+- Capture in Risk Register (see [Risk Register Template](octoacme-risk-register-template.md)):
   - ID, Description, Impact, Probability, Owner, Mitigation
+- Log key decisions in the [Decision Log](octoacme-decision-log.md)
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist

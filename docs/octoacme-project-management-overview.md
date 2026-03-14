@@ -24,9 +24,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
-- Retrospective notes and action items
+- Acceptance Criteria & Definition of Done → [DoD Template](octoacme-definition-of-done.md)
+- Risk Register → [Risk Register Template](octoacme-risk-register-template.md)
+- Decision Log → [Decision Log Template](octoacme-decision-log.md)
+- Retrospective notes and action items → [Retro Action-Item Tracker](octoacme-retro-action-items.md)
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.

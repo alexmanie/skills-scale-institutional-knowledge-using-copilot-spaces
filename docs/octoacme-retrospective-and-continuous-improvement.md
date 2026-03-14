@@ -20,6 +20,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Use the [Retro Action-Item Tracker](octoacme-retro-action-items.md) to log, own, and follow up on all improvements
 
 ## Example Action Item Template
 - Title:

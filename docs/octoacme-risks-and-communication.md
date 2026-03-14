@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+→ Use the [Risk Register Template](octoacme-risk-register-template.md) for a pre-formatted table and field definitions.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
@@ -23,6 +25,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Document your communication plan using the [Stakeholder Comms Plan Template](octoacme-stakeholder-comms-plan.md)
 
 ## Communication Templates
 Weekly Status Template:
