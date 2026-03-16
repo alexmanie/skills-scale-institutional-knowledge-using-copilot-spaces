@@ -19,14 +19,20 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Release Manager: coordinates release activities, go/no-go decisions, and stakeholder communications.
+- UX Designer / Researcher: owns user experience, usability acceptance, and user research.
+- Support Lead: represents the customer voice and briefs support teams at release.
+- Security & Compliance Officer: assesses security and compliance risk; provides release sign-off.
+- DevOps / Automation Engineer: owns CI/CD pipelines, infrastructure automation, and observability.
 
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
-- Retrospective notes and action items
+- Acceptance Criteria & Definition of Done → [DoD Template](octoacme-definition-of-done.md)
+- Risk Register → [Risk Register Template](octoacme-risk-register-template.md)
+- Decision Log → [Decision Log Template](octoacme-decision-log.md)
+- Retrospective notes and action items → [Retro Action-Item Tracker](octoacme-retro-action-items.md)
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
