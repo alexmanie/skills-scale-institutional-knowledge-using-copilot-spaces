@@ -25,6 +25,11 @@ Quality assurance and release practices are built into every workflow. OctoAcme 
 | **Developers** | Implement features, write tests, participate in design and code reviews |
 | **QA / Testing** | Validates quality and acceptance criteria |
 | **Stakeholders** | Provide inputs and approvals |
+| **Release Manager** | Coordinates all release activities, go/no-go decisions, and stakeholder communications |
+| **UX Designer / Researcher** | Owns user experience, usability acceptance criteria, and user research |
+| **Support Lead** | Represents the customer voice, briefs support teams, and surfaces recurring issues |
+| **Security & Compliance Officer** | Assesses security and compliance risk; provides release sign-off |
+| **DevOps / Automation Engineer** | Owns CI/CD, infrastructure automation, and observability |
 
 ---
 
